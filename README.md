@@ -1,5 +1,9 @@
 # RAG Policy Assistant — Snowflake Cortex + Streamlit
 
+![Snowflake](https://img.shields.io/badge/Snowflake-Cortex-29B5E8)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
 A retrieval-augmented generation (RAG) system built entirely inside Snowflake using
 Cortex Search and Cortex LLM, with a Streamlit UI for querying and uploading internal policy documents.
 
