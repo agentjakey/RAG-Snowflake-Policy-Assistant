@@ -16,11 +16,11 @@ source documents and citations. Important for high stakes environments that requ
 
 **Querying a safety policy:**
 
-![alt text](<Screenshot 2026-02-08 165946.png>)
+![Alt Text](assets/App.png "Screenshot of App") 
 
 **Cited source chunks from the indexed PDF:**
 
-![alt text](<Screenshot 2026-02-08 165931.png>)
+![Alt Text](assets/Cite.png "Screenshot of Citation") 
 
 ---
 
