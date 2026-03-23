@@ -7,8 +7,7 @@
 A retrieval-augmented generation (RAG) system built entirely inside Snowflake using
 Cortex Search and Cortex LLM, with a Streamlit UI for querying and uploading internal policy documents.
 
-Built for American Refrigeration to allow employees to ask natural language questions
-about SOPs, safety procedures, and internal policies with answers grounded in
+This version is specifically built for American Refrigeration to allow employees to ask natural language questions about SOPs, safety procedures, and internal policies with answers grounded in
 source documents and citations. Important for high stakes environments that require safety and strict protocols, where LLM hallucinations could be drastic.
 
 ---
